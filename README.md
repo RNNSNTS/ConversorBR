@@ -9,7 +9,7 @@ The package ConversorBR is used to:
 	quilometros 
 	miles 
 	metros 
-	yards -
+	yards
 	pounds
 	quilos
 	farenheit
