@@ -1,4 +1,4 @@
-# package_name
+# ConversorBR
 
 Description. 
 The package package_name is used to:
@@ -22,17 +22,10 @@ The package package_name is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ConversorBR
 
 ```bash
 pip install ConversorBR
-```
-
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
 ```
 
 ## Author
