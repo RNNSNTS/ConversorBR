@@ -1,7 +1,7 @@
 # ConversorBR
 
 Description. 
-The package package_name is used to:
+The package ConversorBR is used to:
 	Converter unidades de medidas americanas para unidades de medidas usadas no Brasil.
 	Funções:
 	altura 
